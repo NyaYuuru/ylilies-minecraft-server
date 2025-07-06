@@ -5,11 +5,11 @@
 
 ## 關於自訂資料包
   伺服器有裝的資料包有3個 位於 ```world/datapacks``` 裡面
-  - #### ```DisableEndermanHoldable.zip```
+  - **```DisableEndermanHoldable.zip```**<br/>
     防止終界使者搬方塊
-  - #### ```ReloadMessage.zip```
+  - **```ReloadMessage.zip```**<br/>
     在伺服器(或管理員)於後台或聊天欄使用 ```/reload``` 指令後 回傳重新載入成功訊息
-  - #### ```The Mansion of the Night.zip```
+  - **```The Mansion of the Night.zip```**<br/>
     提供自訂進度系統(隱藏成就那一些)、被玩家(或被該玩家的寵物)殺死掉落頭顱、等等功能
 	
 	### 特別提醒
@@ -46,15 +46,15 @@
 
 ## 下載注意事項
   有2種版本
-  - #### ```YliliesServer.zip```
+  - **```YliliesServer.zip```**<br/>
     包含整個伺服器(```world``` ```server.jar``` ```server.properties``` ```wihtelist.json``` 等等...)的壓縮檔 包含啟動腳本 開服用
-  - #### ```YliliesWorld.zip```
+  - **```YliliesWorld.zip```**<br/>
     僅有世界檔案(地圖檔)
 
 ## 下載連結
 [點我](https://drive.google.com/drive/folders/1QlwCm7AijUDzV8X8_w3bXxEP5j2Y3jCP)
 > [!IMPORTANT]
-> #### 資料包僅提供給該伺服器地圖使用 請勿用做其他用途!!!!
+> **資料包僅提供給該伺服器地圖使用 請勿用做其他用途!!!!**
 
 [![image2](docs/image2.png)](https://github.com/NyaYuuru/ylilies-minecraft-server)
 
