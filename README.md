@@ -4,7 +4,7 @@
 [![ylilies](docs/image1.png)](https://twitter.com/ylili1125v)
 
 ## 關於自訂資料包
-  伺服器有裝的資料包有3個 位於 ```world/datapacks``` 裡面
+  伺服器有裝的資料包有3個 位於 ```<世界資料夾>/datapacks``` 裡面
   - **```DisableEndermanHoldable.zip```**<br/>
     防止終界使者搬方塊
   - **```ReloadMessage.zip```**<br/>
@@ -47,7 +47,7 @@
 ## 下載注意事項
   有2種版本
   - **```YliliesServer.zip```**<br/>
-    包含整個伺服器(```world``` ```server.jar``` ```server.properties``` ```wihtelist.json``` 等等...)的壓縮檔 包含啟動腳本 開服用
+    包含整個伺服器(```<世界資料夾>``` ```server.jar``` ```server.properties``` ```wihtelist.json``` 等等...)的壓縮檔 包含啟動腳本 開服用
   - **```YliliesWorld.zip```**<br/>
     僅有世界檔案(地圖檔)
 
